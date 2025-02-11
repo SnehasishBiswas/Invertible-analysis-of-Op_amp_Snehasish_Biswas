@@ -8,15 +8,10 @@ Given circuit parameters (resistors, capacitors, supply voltage), determine outp
 Example: Finding the output voltage 
 𝑉
 out
-V 
-out
 ​
   for a given 
 𝑉
 in
-V 
-in
-​
  .
 Inverse Analysis:
 
@@ -31,13 +26,12 @@ out
 =
 −
 (
-𝑅
-𝑓
+𝑅f/
 𝑅
 in
 )
 𝑉
-in
+in/
 V 
 out
 ​
